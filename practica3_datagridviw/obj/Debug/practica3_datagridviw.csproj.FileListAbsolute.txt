@@ -1,0 +1,19 @@
+c:\users\anoni\onedrive\documentos\visual studio 2013\Projects\practica3_datagridviw\practica3_datagridviw\bin\Debug\practica3_datagridviw.exe.config
+C:\Users\anoni\onedrive\documentos\visual studio 2013\Projects\practica3_datagridviw\practica3_datagridviw\bin\Debug\practica3_datagridviw.exe
+C:\Users\anoni\onedrive\documentos\visual studio 2013\Projects\practica3_datagridviw\practica3_datagridviw\bin\Debug\practica3_datagridviw.pdb
+C:\Users\anoni\onedrive\documentos\visual studio 2013\Projects\practica3_datagridviw\practica3_datagridviw\obj\Debug\practica3_datagridviw.csprojResolveAssemblyReference.cache
+C:\Users\anoni\onedrive\documentos\visual studio 2013\Projects\practica3_datagridviw\practica3_datagridviw\obj\Debug\practica3_datagridviw.Form1.resources
+C:\Users\anoni\onedrive\documentos\visual studio 2013\Projects\practica3_datagridviw\practica3_datagridviw\obj\Debug\practica3_datagridviw.Properties.Resources.resources
+C:\Users\anoni\onedrive\documentos\visual studio 2013\Projects\practica3_datagridviw\practica3_datagridviw\obj\Debug\practica3_datagridviw.csproj.GenerateResource.Cache
+C:\Users\anoni\onedrive\documentos\visual studio 2013\Projects\practica3_datagridviw\practica3_datagridviw\obj\Debug\practica3_datagridviw.exe
+C:\Users\anoni\onedrive\documentos\visual studio 2013\Projects\practica3_datagridviw\practica3_datagridviw\obj\Debug\practica3_datagridviw.pdb
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\practica3_datagridviw\practica3_datagridviw\bin\Debug\practica3_datagridviw.exe.config
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\practica3_datagridviw\practica3_datagridviw\bin\Debug\practica3_datagridviw.exe
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\practica3_datagridviw\practica3_datagridviw\bin\Debug\practica3_datagridviw.pdb
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\practica3_datagridviw\practica3_datagridviw\obj\Debug\practica3_datagridviw.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\practica3_datagridviw\practica3_datagridviw\obj\Debug\practica3_datagridviw.Form1.resources
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\practica3_datagridviw\practica3_datagridviw\obj\Debug\practica3_datagridviw.Properties.Resources.resources
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\practica3_datagridviw\practica3_datagridviw\obj\Debug\practica3_datagridviw.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\practica3_datagridviw\practica3_datagridviw\obj\Debug\practica3_datagridviw.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\practica3_datagridviw\practica3_datagridviw\obj\Debug\practica3_datagridviw.exe
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\practica3_datagridviw\practica3_datagridviw\obj\Debug\practica3_datagridviw.pdb
